@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/react_upload/static/css/main.4d48eb7a.chunk.css",
-    "main.js": "/react_upload/static/js/main.c3e192d4.chunk.js",
-    "main.js.map": "/react_upload/static/js/main.c3e192d4.chunk.js.map",
-    "runtime-main.js": "/react_upload/static/js/runtime-main.9624cb8d.js",
-    "runtime-main.js.map": "/react_upload/static/js/runtime-main.9624cb8d.js.map",
-    "static/js/2.e8a9d782.chunk.js": "/react_upload/static/js/2.e8a9d782.chunk.js",
-    "static/js/2.e8a9d782.chunk.js.map": "/react_upload/static/js/2.e8a9d782.chunk.js.map",
-    "index.html": "/react_upload/index.html",
-    "static/css/main.4d48eb7a.chunk.css.map": "/react_upload/static/css/main.4d48eb7a.chunk.css.map",
-    "static/js/2.e8a9d782.chunk.js.LICENSE.txt": "/react_upload/static/js/2.e8a9d782.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/react_upload/static/media/bg.d580cd37.jpg"
+    "main.css": "/react-pizza-website/static/css/main.d713394c.chunk.css",
+    "main.js": "/react-pizza-website/static/js/main.cb6c4e1c.chunk.js",
+    "main.js.map": "/react-pizza-website/static/js/main.cb6c4e1c.chunk.js.map",
+    "runtime-main.js": "/react-pizza-website/static/js/runtime-main.7f2731ad.js",
+    "runtime-main.js.map": "/react-pizza-website/static/js/runtime-main.7f2731ad.js.map",
+    "static/js/2.38dfb4cf.chunk.js": "/react-pizza-website/static/js/2.38dfb4cf.chunk.js",
+    "static/js/2.38dfb4cf.chunk.js.map": "/react-pizza-website/static/js/2.38dfb4cf.chunk.js.map",
+    "index.html": "/react-pizza-website/index.html",
+    "precache-manifest.374b79c38e0fe200c5318c9c7cf56b1e.js": "/react-pizza-website/precache-manifest.374b79c38e0fe200c5318c9c7cf56b1e.js",
+    "service-worker.js": "/react-pizza-website/service-worker.js",
+    "static/css/main.d713394c.chunk.css.map": "/react-pizza-website/static/css/main.d713394c.chunk.css.map",
+    "static/js/2.38dfb4cf.chunk.js.LICENSE.txt": "/react-pizza-website/static/js/2.38dfb4cf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-pizza-website/static/media/bg.84bc78e2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9624cb8d.js",
-    "static/js/2.e8a9d782.chunk.js",
-    "static/css/main.4d48eb7a.chunk.css",
-    "static/js/main.c3e192d4.chunk.js"
+    "static/js/runtime-main.7f2731ad.js",
+    "static/js/2.38dfb4cf.chunk.js",
+    "static/css/main.d713394c.chunk.css",
+    "static/js/main.cb6c4e1c.chunk.js"
   ]
 }
